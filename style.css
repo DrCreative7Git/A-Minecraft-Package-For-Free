@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'Minecrafter';
+  src: url('../Minecrafter.Reg\ \(1\).ttf');
+}
+body {
+  height:100vh;
+  background-image:url('../background_image.jpg');
+  font-family: 'Minecrafter';
+  background-size:cover;
+  image-rendering:crisp-edges;
+  background-position: center;
+  color: #eaeaea; /* Slightly darker shade of powder blue */
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 1.5em;
+}
+.jvdnld {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QldULHrjlvFS9UBWLon-8XjJmD3GQTgF9zGLg7ft9jScDR6-SCjPJ85gVG7QSLd_aE8&usqp=CAU');
+  background-size: cover;
+  background-position: center;
+  font-size: 1em;
+  color:#ff9d00;
+  font-family: 'Minecrafter';
+  background-color: rgb(86, 128, 133);
+  width:250px;
+  border-radius: 15px;
+  border-width: 0px;
+  position:absolute;
+  left:400px;
+  height:100px;
+}
+.jvdnld:active {
+transform: translate(0px, 5px);
+-webkit-transform: translate(0px, 5px);
+box-shadow: 0px 1px 0px 0px;
+}       
+.bddnld {
+  background-image: url('https://pbs.twimg.com/media/FQt-U0lXoAEsWhk?format=jpg&name=large');
+  background-size: cover;
+  background-position: center;
+  font-size: 1em;
+  font-family:'Minecrafter';
+  height:100px;
+  color:#ff9d00;
+  background-color: rgb(86, 128, 133);
+  width: 250px;
+  border-radius: 15px;
+  border-width: 0px;
+  position:absolute;
+  right:400px;
+}
+.bddnld:active {
+transform: translate(0px, 5px);
+-webkit-transform: translate(0px, 5px);
+box-shadow: 0px 1px 0px 0px;
+}    
+.ll{
+  border-radius: 15px;
+  width:1100px;
+  height:700px;
+}
+.ll:active {
+  transform: scale(0.95);
+  background-color: #ccc;
+box-shadow: 0px 1px 0px 0px;
+}    
+.mb{
+  border-radius: 15px;
+  width:1100px;
+  height:650px;
+}
+.mb:active {
+transform: scale(0.95);
+background-color: #ccc;
+}  
+.mcdv{
+  width:800px;
+  height:600px;
+  position:absolute;
+  left:150px
+}
+.ty {
+  font-size: 3em;
+  margin-bottom: 20px;
+  color:#5eff00
+}
+.FILE_NOT_DANGEROUS{
+  font-size:1em;
+  color:rgb(255, 242, 0);
+}
+.sc{
+  font-size: 1em;
+  font-family:'Minecrafter';
+  color:#ffffff;
+  background-image: url('../background_image.jpg');
+  width:150px;
+  height:70px;
+  border-radius: 15px;
+  border-width: 0px;
+  position:absolute;
+  right:80px;
+}
+.sc:active {
+  transform: translate(10px, 10px);
+}
